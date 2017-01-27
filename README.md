@@ -1,2 +1,2 @@
-# Test-repo---Data-Science-Specialization
+# Test-repo---datasciencecoursera
 This is a test repo
